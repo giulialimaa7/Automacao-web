@@ -26,7 +26,7 @@ Para isso, será criada uma automação web utilizando **Python**.
 
 ## 📦 Tecnologias e Ferramentas Utilizadas  
 
-- **Python 3.x**  
+- **Python**  
 - **Selenium** – Automação de navegação web  
 - **WebDriver** – Controle do navegador (ex: ChromeDriver)  
 - **Pandas** – Manipulação da base de dados  
